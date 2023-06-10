@@ -1,13 +1,7 @@
 site_name: My Docs
 nav: 
   - Home: index.md
-  - ACM Executive Board:
-    - Officers:
-      - President: 'Executive/Officers/President.md'
-      - Vice-President Internal: 'Executive/Officers/VP-I.md'
-      - Vice-President External: 'Executive/Officers/VP-E.md'
-      - Treasurer: 'Executive/Officers/Treasurer.md'
-      - Logsitics: 'Executive/Officers/Logitiscs.md'
+  - Industry: 'Industry/industry'
   - SIGs:
     - ACM Web: 'https://mstacm.org/'
     - ACM Game: 'https://discord.com/invite/RZCYUpT'
@@ -17,3 +11,10 @@ nav:
     - ACM Security: 'https://acmsec.mst.edu/'
     - ACM Entrepreneurship: 'https://www.youtube.com/@ACMEntrepreneurship'
     - ACM Hack: 'https://pickhacks.io/'
+  - ACM Executive Board:
+    - Officers:
+      - President: 'Executive/Officers/President.md'
+      - Vice-President Internal: 'Executive/Officers/VP-I.md'
+      - Vice-President External: 'Executive/Officers/VP-E.md'
+      - Treasurer: 'Executive/Officers/Treasurer.md'
+      - Logsitics: 'Executive/Officers/Logitiscs.md'
