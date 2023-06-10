@@ -1,7 +1,7 @@
 site_name: My Docs
 nav: 
   - Home: index.md
-  - Industry: 'Industry/industry'
+  - Industry: 'Industry/industry.md'
   - SIGs:
     - ACM Web: 'https://mstacm.org/'
     - ACM Game: 'https://discord.com/invite/RZCYUpT'
