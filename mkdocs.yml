@@ -12,9 +12,6 @@ nav:
     - ACM Entrepreneurship: 'https://www.youtube.com/@ACMEntrepreneurship'
     - ACM Hack: 'https://pickhacks.io/'
   - ACM Executive Board:
-    - Officers:
-      - President: 'Executive/Officers/President.md'
-      - Vice-President Internal: 'Executive/Officers/VP-I.md'
-      - Vice-President External: 'Executive/Officers/VP-E.md'
-      - Treasurer: 'Executive/Officers/Treasurer.md'
-      - Logsitics: 'Executive/Officers/Logitiscs.md'
+    - Officers: 'Executive/Officers.md'
+    - Tools: 'Executive/Tools.md'
+    - Events: 'Executive/Events.md'
