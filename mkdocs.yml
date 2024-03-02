@@ -1,17 +1,9 @@
-site_name: My Docs
+site_name: Missouri S&T ACM
 nav: 
   - Home: index.md
-  - Industry: 'Industry/industry.md'
-  - SIGs:
-    - ACM Web: 'https://mstacm.org/'
-    - ACM Game: 'https://discord.com/invite/RZCYUpT'
-    - ACM-W: 'https://women.mstacm.org/'
-    - ACM Data: 'https://modata.blog/'
-    - ACM Competition: 'https://comp.mstacm.org/'
-    - ACM Security: 'https://acmsec.mst.edu/'
-    - ACM Entrepreneurship: 'https://www.youtube.com/@ACMEntrepreneurship'
-    - ACM Hack: 'https://pickhacks.io/'
-  - ACM Executive Board:
-    - Officers: 'Executive/Officers.md'
-    - Tools: 'Executive/Tools.md'
-    - Events: 'Executive/Events.md'
+  - Learn About ACM: 
+    - Overview: 'ACM/Overview.md'
+  - Leadership:
+    - Getting Started: 'Leadership/GettingStarted.md'
+  - Documentation: 
+    - Servers: 'ACM/Overview.md'
